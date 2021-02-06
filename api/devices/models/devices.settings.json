@@ -33,6 +33,12 @@
     },
     "pricings": {
       "collection": "pricings"
+    },
+    "releaseDate": {
+      "type": "date"
+    },
+    "priority": {
+      "type": "integer"
     }
   }
 }
