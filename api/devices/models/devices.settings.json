@@ -39,6 +39,9 @@
     },
     "priority": {
       "type": "integer"
+    },
+    "urlName": {
+      "type": "string"
     }
   }
 }
