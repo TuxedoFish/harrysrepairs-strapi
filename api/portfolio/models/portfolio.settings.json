@@ -32,6 +32,16 @@
     },
     "position": {
       "type": "integer"
+    },
+    "tags": {
+      "type": "component",
+      "repeatable": true,
+      "component": "project.tag"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "project.link"
     }
   }
 }
